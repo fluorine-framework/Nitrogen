@@ -1,0 +1,23 @@
+{
+	"name": "fluorine-framework/nitrogen",
+	"description": "The DBAL from Fluorine Framework",
+	"version": "0.7.1",
+	"keywords": ["fluorine", "framework", "nitrogen"],
+	"authors": [
+		{
+			"name": "Niels Fyhring",
+			"email": "niels@fyhring.net",
+			"role": "Main Developer"
+		}
+	],
+	"autoload": {
+		"psr-0": {
+			"Nitrogen": "src/"
+		}
+	},
+	"extra": {
+		"branch-alias": {
+			"master": "0.7.1"
+		}
+	}
+}
